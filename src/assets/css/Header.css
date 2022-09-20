@@ -1,0 +1,16 @@
+header nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header nav ul{
+    display: flex;
+}
+header nav ul li {
+    padding: 0 10px;
+}
+header nav input[name=search] {
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
